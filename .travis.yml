@@ -1,2 +1,2 @@
 language: csharp
-solution: "/w2TC/Tc.sln"
+solution: "./Tc/Tc.sln"
